@@ -16,8 +16,12 @@ export function getNewItem(){
 		"200003803", // Smart Electronics
 		"100001202", // Telephones & Accessories
 		"1511", // Watches
-		"200003411", // Interior accessories for cars
+		"200048142", // DIY computer
+		"200001074", // External storage
+		"200001076", // Computer Components
+		"200003782", // Office electronics
 		"200001083", // Laptop accessories
+		"200002303", // Laptops and netbooks
 		"200001085" // Tablets & PDAs Accessories
 	]; 
 
