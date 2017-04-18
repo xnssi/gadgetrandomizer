@@ -1,5 +1,5 @@
 # Gadget randomizer
-## React + Redux
+### Made with React + Redux
 
 * Fetches a random cheap gadget from AliExpress (because who doesn't love cheap stuff)
 * Provides a list of the items you have already viewed
